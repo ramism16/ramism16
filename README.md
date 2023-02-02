@@ -34,7 +34,3 @@ You might catch me in Rocket League or Sea Of Thieves when I'm not working.
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
-
-<a class="github-button" href="https://github.com/ramism16" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @ramism16 on GitHub">Follow @ramism16</a>
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
