@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there! I'm Ramis 👋
+# Hey there! I'm Ramis 👋💪
 
 I'm a computer science enthusiast with interests in Mobile Development, App Development, Cloud and Data Science. I've been working on creating and publishing services that catch market opportunities which lead me to a proficiency in Flutter and Google Cloud.
 
