@@ -20,7 +20,7 @@ I'm a computer science enthusiast with interests in Mobile Development, App Deve
 
 I'm also interested in and promoting Google technologies as part of my role as Co-manager in Google Developer Group for Cloud Islamabad where I have hosted and conducted various in-person and virtual trainings, workshops and hackathons. These workshops have covered Flutter, GCP, TensorFlow, Kubernetes, Git and GitHub, Firebase and other Google technologies.
 
-I'd like to think of myself as a jack of all trades when it comes to tech.
+I like to think of myself as a jack of all trades when it comes to tech.
 You might catch me in Rocket League or Sea Of Thieves when I'm not working.
 
 ### Find me and get in touch here
