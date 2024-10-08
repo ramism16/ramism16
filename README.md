@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 
 # Hey there! I'm Ramis 👋💪
 
-I'm a computer science enthusiast with interests in Mobile Development, App Development, Cloud and Data Science. I've been working on creating and publishing services that catch market opportunities which lead me to a proficiency in Flutter and Google Cloud.
+I'm a computer science enthusiast specializing in Full Stack Development, Cross-Platform Mobile App Development, Cloud, and DevOps. Throughout my career, I've focused on creating and launching impactful services that capitalize on market opportunities.
 
-I'm also interested in and promoting Google technologies as part of my role as Co-manager in Google Developer Group for Cloud Islamabad where I have hosted and conducted various in-person and virtual trainings, workshops and hackathons. These workshops have covered Flutter, GCP, TensorFlow, Kubernetes, Git and GitHub, Firebase and other Google technologies.
+I promote Google technologies as Co-manager of the Google Developer Group for Cloud Islamabad. I've organized and led numerous in-person and virtual trainings, workshops, and hackathons covering a range of technologies including Flutter, GCP, TensorFlow, Kubernetes, Git, GitHub, and Firebase.
 
-I like to think of myself as a jack of all trades when it comes to tech.
-You might catch me in Rocket League or Sea Of Thieves when I'm not working.
+My experience includes working with JD.com and Huawei Cloud technologies, where I honed my skills in cloud infrastructure and scalable application development. Additionally, my trainings in China provided me with invaluable insights and hands-on experience that enriched my technical capabilities. I also served as a Senior Software Engineer at Camio, the first online service to uberize freight trucking in Algeria, where I contributed to innovative solutions that transformed logistics in the region. I further expanded my expertise in backend development while working at Zode.sa, Saudi Arabia's homegrown online marketplace, where I contributed to building robust and efficient systems.
+
+Recognized as a versatile technologist, I am known for my quick learning ability, problem-solving skills, and effective leadership both in professional settings and beyond.
+
+When I'm not immersed in tech, you might find me unwinding with Rocket League or exploring the seas in Sea of Thieves.
 
 ### Find me and get in touch here
 
