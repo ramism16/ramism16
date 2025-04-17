@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 # Hey there! I'm Ramis 👋💪
 
-I'm a computer science enthusiast specializing in Full Stack Development, Cross-Platform Mobile App Development, Cloud, and DevOps. Throughout my career, I've focused on creating and launching impactful services that capitalize on market opportunities.
+I'm a computer science enthusiast with interests in application development, Cloud, and DevOps. Throughout my career, I've focused on creating and launching impactful services that capitalize on market opportunities.
 
-I promote Google technologies as Co-manager of the Google Developer Group for Cloud Islamabad. I've organized and led numerous in-person and virtual trainings, workshops, and hackathons covering a range of technologies including Flutter, GCP, TensorFlow, Kubernetes, Git, GitHub, and Firebase.
+I promote Google technologies as Co-manager of the Google Developer Group for Cloud Islamabad. I've organized and led numerous in-person and virtual trainings, workshops, and hackathons covering a range of technologies including Flutter, GCP, Vertex AI, TensorFlow, Kubernetes, Git, GitHub, and Firebase.
 
 My experience includes working with JD.com and Huawei Cloud technologies, where I honed my skills in cloud infrastructure and scalable application development. Additionally, my trainings in China provided me with invaluable insights and hands-on experience that enriched my technical capabilities. I also served as a Senior Software Engineer at Camio, the first online service to uberize freight trucking in Algeria, where I contributed to innovative solutions that transformed logistics in the region. I further expanded my expertise in backend development while working at Zode.sa, Saudi Arabia's homegrown online marketplace, where I contributed to building robust and efficient systems.
 
